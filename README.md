@@ -19,12 +19,13 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![image](https://github.com/ManojTella/Single-server-infinite-capacity---Markov-Model/assets/94883876/c26be62e-6f48-497e-a8cc-4c6fb3711e3c)
+
+![image](https://github.com/ManojTella/Single-server-infinite-capacity---Markov-Model/assets/94883876/c3fce55d-1d2f-493f-94c9-3e3793a02efc)
 
 
- 
 ## Program
 ```
-
 DEVELOPRD BY : M Gautham
 REGISTER NO : 212221230027
 
@@ -53,12 +54,10 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
 ```
-## Output :
-![image](https://github.com/muppirgautham/Single-server-infinite-capacity---Markov-Model/assets/94810884/c9a94a1e-ab36-42cd-a1be-ef9cf50b89f6)
+## Output:
+![image](https://github.com/ManojTella/Single-server-infinite-capacity---Markov-Model/assets/94883876/f7dd25da-2aa0-4349-ab59-a42ccbb985dc)
 
-
-## Result :
+## Result:
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
-
 
 
